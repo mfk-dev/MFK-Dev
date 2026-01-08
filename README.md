@@ -5,6 +5,7 @@
 - My name is Musab and I'm from Turkiye.
 - I'm a highschool student that is interested with coding.
 - I only know HTML, CSS and a little bit of python right now but im developing myself, and i believe i'll be good at this coding thing.
+- My goal is to become a full-stack developer, also learn some other things like C++ and work in a company that is related with Astronomy. For example: "TUA" ( Turkiye Space Agency )
 
 ### Things I like:
 - Learning.
