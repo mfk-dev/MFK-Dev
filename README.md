@@ -9,6 +9,7 @@
 - My side goals are:
   - Being a full-stack developer.
   - Being a cyber security expert.
+  - Also, maybe becoming a AI Engineer.
 - Yes, maybe these goals are hard when you collect them together, but whatever, why do i even exist if im not going to try things?
 
 ### Things I like:
