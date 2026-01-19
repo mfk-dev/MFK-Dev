@@ -5,12 +5,7 @@
 - I'm MFK and I'm from Turkiye.
 - I'm a student that is interested with coding.
 - I only know HTML, CSS, a little bit of Javascript and Python right now but im developing myself, and i believe i'll be good at this coding thing.
-- My main goal is to be a computer engineer and work in a company that is related with Astronomy. For example: "TUA" ( Turkiye Space Agency )
-- My side goals are:
-  - Being a full-stack developer.
-  - Being a cyber security expert.
-  - Also, maybe becoming a AI Engineer.
-- Yes, maybe these goals are hard when you collect them together, but whatever, why do i even exist if im not going to try things?
+- I dont really have a main goal, but i kind of think about working as a computer engineer in a company that is related to Astronomy. ( Such as: TUA ( Turkiye Space Agency )
 
 ### Things I like:
 - Learning.
@@ -18,6 +13,7 @@
 - Sci-fi.
 - Games.
 - Topic Of Parallel Universes.
+- Space.
 - Dreams.
 
 ## See you!
